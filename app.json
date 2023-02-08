@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "timer-app",
+    "slug": "snack-8284193b-74cf-4bda-ba76-6cb00b4a460c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sujal387.snack8284193b74cf4bdaba766cb00b4a460c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Timer APP",
+    "extra": {
+      "eas": {
+        "projectId": "b40f76fd-8750-4f9b-9d23-155579e3b903"
+      }
+    }
+  }
+}
